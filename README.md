@@ -1,4 +1,4 @@
-# project
+# Project
 ## Building Material Supply Management System
 #### Developed a website called Online building material supply management system which will be used for ordering building
 #### materials through online portal.
